@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\LibraryManagementSystem",
+    "\\LibraryManagementSystem\\bin\\Debug\\net6.0",
+    "\\LibraryManagementSystem\\bin\\Release\\net6.0",
+    "\\LibraryManagementSystem\\DataAccess",
+    "\\LibraryManagementSystem\\Models"
+  ],
+  "SelectedNode": "\\LibraryManagementSystem.sln",
+  "PreviewInSolutionExplorer": false
+}
